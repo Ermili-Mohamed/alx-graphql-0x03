@@ -17,3 +17,4 @@ export type EpisodeCardProps = Pick<
   EpisodeProps,
   "id" | "name" | "air_date" | "episode"
 >;
+
